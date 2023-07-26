@@ -1,6 +1,11 @@
+![alt text](https://github.com/kadu20es/kadu20es/github_banner.png)
+
 ## Hi there 👋
 
 I am Carlos Eduardo, but you can call me "Kadu" (pronounce "Kah-Dooh"). I am 39 (almost 40) years old and live in Brazil.
+This is my "study" github. On it I'll put anything I'm working on while I'm learning and improving my skills.
+
+Currently I'm focused on Javascript just to jump to React and Typescript.
 
 
 
