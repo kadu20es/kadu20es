@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I am Carlos Eduardo, but you can call me "Kadu" (pronounce "Kah-Dooh"). I am 39 (almost 40) years old and live in Brazil.
+I am Carlos Eduardo, but you can call me "Kadu" (pronounce "Kah-Dooh"). I am 39 (almost 40) years old and live in Brazil.
 
 
 
