@@ -1,4 +1,4 @@
-![alt text](https://github.com/kadu20es/kadu20es/github_banner.png)
+![alt text](https://github.com/kadu20es/kadu20es/blob/main/github_banner.png)
 
 ## Hi there 👋
 
