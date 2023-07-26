@@ -17,7 +17,7 @@ Este é meu github de estudos. Nele vou colocar qualquer coisa que eu estiver tr
 
 Atualmente estou focado em Javascript apenas para pular para React e Typescript.
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,java)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,java,docker,kubernetes)](https://skills.thijs.gg)
 
 
 
