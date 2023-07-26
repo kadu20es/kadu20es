@@ -7,6 +7,9 @@ This is my "study" github. On it I'll put anything I'm working on while I'm lear
 
 Currently I'm focused on Javascript just to jump to React and Typescript.
 
+My skills:
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)](https://skills.thijs.gg)
+
 
 
 
