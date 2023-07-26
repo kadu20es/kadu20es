@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hi there 👋
+
+# I am Carlos Eduardo, but you can call me "Kadu" (pronounce "Kah-Dooh"). I am 39 (almost 40) years old and live in Brazil.
+
+
+
 
 <!--
 **kadu20es/kadu20es** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
