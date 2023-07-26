@@ -2,13 +2,22 @@
 
 ## Hi there 👋
 
-I am Carlos Eduardo, but you can call me "Kadu" (pronounce "Kah-Dooh"). I am 39 (almost 40) years old and live in Brazil.
+I am Carlos Eduardo, but you can call me "Kadu" (pronouns "Kah-Dooh"). 
+I am 39 (almost 40) years old and live in Espírito Santo - Brazil.
 This is my "study" github. On it I'll put anything I'm working on while I'm learning and improving my skills.
 
 Currently I'm focused on Javascript just to jump to React and Typescript.
+___
 
-My skills:
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)](https://skills.thijs.gg)
+## Olá! 👋
+
+Sou Carlos Eduardo Carmo do Val, mas você pode me chamar de Kadu.
+Tenho 39 anos (quase 40) e moro no Espírito Santo - Brasil.
+Este é meu github de estudos. Nele vou colocar qualquer coisa que eu estiver trabalhando enquanto estou aprendendo e melhorando minhas habilidades.
+
+Atualmente estou focado em Javascript apenas para pular para React e Typescript.
+
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,java)](https://skills.thijs.gg)
 
 
 
