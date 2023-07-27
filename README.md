@@ -17,9 +17,7 @@ Este é meu github de estudos. Nele vou colocar qualquer coisa que eu estiver tr
 
 Atualmente estou focado em Javascript apenas para pular para React e Typescript.
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,java,spring,py,mysql,postgres,docker,kubernetes,git)](https://skills.thijs.gg)
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,spring,py,mysql,postgres,docker,kubernetes,git&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,spring,py,mysql,postgres,maven,docker,kubernetes,git,kafka,rabbitmq,linux,bash,idea,vscode&perline=8)](https://skillicons.dev)
 
 
 <!--
