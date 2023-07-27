@@ -17,13 +17,15 @@ Este é meu github de estudos. Nele vou colocar qualquer coisa que eu estiver tr
 
 Atualmente estou focado em Javascript apenas para pular para React e Typescript.
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,java,docker,kubernetes,Linux,debian)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,java,spring,py,mysql,postgres,docker,kubernetes,git)](https://skills.thijs.gg)
 
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,spring,py,mysql,postgres,docker,kubernetes,git&perline=5)](https://skillicons.dev)
 
 
 <!--
 **kadu20es/kadu20es** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+icons place: https://reactjsexample.com/skill-icons-beautiful-skills-icons-for-your-github-readme/
 
 Here are some ideas to get you started:
 
