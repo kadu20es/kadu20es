@@ -3,7 +3,7 @@
 ## Hi there 👋
 
 I am Carlos Eduardo, but you can call me "Kadu" (pronouns "Kah-Dooh"). 
-I am 39 (almost 40) years old and live in Espírito Santo - Brazil.
+I am 40 years old and live in Espírito Santo - Brazil.
 This is my "study" github. On it I'll put anything I'm working on while I'm learning and improving my skills.
 
 Currently I'm focused on Javascript just to jump to React and Typescript.
