@@ -12,7 +12,7 @@ ___
 ## Olá! 👋
 
 Sou Carlos Eduardo Carmo do Val, mas você pode me chamar de Kadu.
-Tenho 39 anos (quase 40) e moro no Espírito Santo - Brasil.
+Tenho 41 anos e moro em Serra, ES - Brasil.
 Este é meu github de estudos. Nele vou colocar qualquer coisa que eu estiver trabalhando enquanto estou aprendendo e melhorando minhas habilidades.
 
 Atualmente estou focado em Javascript apenas para pular para React e Typescript.
