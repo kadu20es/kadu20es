@@ -1,4 +1,4 @@
-![alt text](https://github.com/kadu20es/kadu20es/blob/main/github_banner.png)
+<!--![alt text](https://github.com/kadu20es/kadu20es/blob/main/github_banner.png)-->
 
 ## Hi there 👋
 
@@ -17,7 +17,7 @@ Este é meu github de estudos. Nele vou colocar qualquer coisa que eu estiver tr
 
 Atualmente estou focado em Javascript apenas para pular para React e Typescript.
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,mysql,postgres,docker,kubernetes,git,kafka,rabbitmq,linux,bash,idea,vscode&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,mysql,postgres,docker,kubernetes,git,kafka,rabbitmq,linux,bash,idea,vscode&perline=8)](https://skillicons.dev)
 
 
 <!--
